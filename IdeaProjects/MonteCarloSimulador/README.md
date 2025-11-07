@@ -25,6 +25,7 @@ Por ejemplo:
 ---
 
 ## Lenguaje Funcional
+
 Scala
 ---
 
